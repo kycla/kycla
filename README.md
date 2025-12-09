@@ -53,5 +53,5 @@ Motivated cloud professional committed to building secure, scalable, and well‑
 </div>
 
 ## Projects
-- SSH into Private isntace via Bastion
+- SSH into Private instance via Bastion
 - SOC Automation Project
